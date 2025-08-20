@@ -5,5 +5,5 @@
   "devCommand": "cd app && npm run dev",
   "installCommand": "cd app && npm install",
   "framework": "nextjs",
-  "outputDirectory": "app/.next"
+  "outputDirectory": "app/out"
 }
